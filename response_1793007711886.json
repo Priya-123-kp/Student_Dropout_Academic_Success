@@ -1,0 +1,5 @@
+{
+  "message": "Student Academic Outcome Prediction API",
+  "selected_model": "Logistic Regression",
+  "docs": "/docs"
+}

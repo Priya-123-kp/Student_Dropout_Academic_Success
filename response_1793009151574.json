@@ -1,0 +1,6 @@
+{
+  "prediction": "Graduate",
+  "class_id": 2,
+  "confidence": 0.8700721024939857,
+  "selected_model": "Logistic Regression"
+}
